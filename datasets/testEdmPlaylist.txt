@@ -1,0 +1,15 @@
+Test EDM Playlist
+Calvin Harris Intro
+SHUFFLE TIME_LIMIT 10:00
+Faith - Calvin Harris - 3:39
+Slow Acid - Calvin Harris - 3:42
+How Deep Is Your Love - Calvin Harris & Disciples - 3:33
+
+Main Section
+SHUFFLE TIME_LIMIT 15:00
+This Time - Axwell & Ingrosso - 3:40
+
+Avicii Fadeout
+SHUFFLE TIME_LIMIT 15:00
+The Nights - Avicii - 2:57
+For A Better Day - Avicii - 3:26
