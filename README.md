@@ -1,4 +1,4 @@
-# playCicleGo
+# PlayCycle (Golang)
 
 Simple app that creates playlists with "zones", that allow you to select songs within each zone. 
 
