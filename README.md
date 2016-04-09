@@ -10,3 +10,10 @@ For example, I can have a playlist that has:
 - Warm-down section (5 total songs, 10:00 time limit) (Songs among these 5 will be played until the 10:00 limit is reached);
   
 Currently playlists are "hardcoded". Either you play all songs in order or shuffle them all. Aren't you tired from this lack of control? Let's change  that.
+
+Technology:
+- Backend:
+  - Golang for API server;
+- Frontend:
+  - Angular.js for interface;
+  - Node.js for serving HTML/static files;
