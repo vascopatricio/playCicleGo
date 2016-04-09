@@ -2,11 +2,11 @@ Dummy Rock Playlist
 Intro
 SHUFFLE SONG_LIMIT 3
 Let It Go - James Bay - 4:21
-Adventure of a Lifetime - Coldplay 4:24
-Ex’s & Oh’s - Elle King 3:22
+Adventure of a Lifetime - Coldplay - 4:24
+Ex’s & Oh’s - Elle King - 3:22
 
 Peak
 NORMAL NO_LIMIT
-Genghis Khan - Miike Snow 3:32
-Cleopatra - The Lumineers 3:21
-State of My Head - Shinedown 3:26
+Genghis Khan - Miike Snow - 3:32
+Cleopatra - The Lumineers - 3:21
+State of My Head - Shinedown - 3:26

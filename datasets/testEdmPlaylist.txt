@@ -6,8 +6,13 @@ Slow Acid - Calvin Harris - 3:42
 How Deep Is Your Love - Calvin Harris & Disciples - 3:33
 
 Main Section
-SHUFFLE TIME_LIMIT 15:00
+SHUFFLE TIME_LIMIT 10:00
 This Time - Axwell & Ingrosso - 3:40
+Five More Hours - Deorro - 3:32
+To U - Jack U - 3:57
+Where Are U Now - Jack U - 4:10
+Mind - Jack U - 4:02
+Coming Over - Kygo, James Hersey - 2:58
 
 Avicii Fadeout
 SHUFFLE TIME_LIMIT 15:00
